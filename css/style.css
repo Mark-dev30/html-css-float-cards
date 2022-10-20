@@ -25,7 +25,9 @@ h1{
  /* table cards */
 
 .card{
+    border: 1px solid #d2d2d1;
     background-color: #0f0e17; 
+    box-shadow: 1px 1px 8px 1px #d2d2d1;
 }
 
 
@@ -36,12 +38,12 @@ img{
 }
 
 .info_card{
-    margin: 5px;
+    padding: 5px 0 0 80px;
     color: white;
     line-height: 20px;
 }
 .info_card p{
-    font-size: 10px;
+    font-size: 12px;
 }
 
 .column{
