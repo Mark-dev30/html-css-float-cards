@@ -38,9 +38,10 @@ img{
 }
 
 .info_card{
-    padding: 5px 0 0 80px;
+    padding: 5px 0 0 8px;
     color: white;
     line-height: 20px;
+    float: left;
 }
 .info_card p{
     font-size: 12px;
